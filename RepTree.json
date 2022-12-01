@@ -1,0 +1,2447 @@
+{
+  "federal": [
+    {
+      "rep_dict": {
+        "name": "Joseph R. Biden",
+        "address": [
+          {
+            "line1": "1600 Pennsylvania Avenue Northwest",
+            "city": "Washington",
+            "state": "DC",
+            "zip": "20500"
+          }
+        ],
+        "party": "Democratic Party",
+        "phones": [
+          "(202) 456-1111"
+        ],
+        "urls": [
+          "https://www.whitehouse.gov/",
+          "https://en.wikipedia.org/wiki/Joe_Biden"
+        ],
+        "channels": [
+          {
+            "type": "Twitter",
+            "id": "potus"
+          }
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "The White House 1600 Pennsylvania Avenue NW Washington, DC 20500",
+            "featureId": {
+              "cellId": "9923602325795527449",
+              "fprint": "11513381022022344111"
+            },
+            "featureType": "typeCompoundBuilding",
+            "positionPrecisionMeters": 126.14545494347092,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Joseph R. Biden",
+      "party": "Democratic Party",
+      "role": "President of the United States",
+      "level": "Federal",
+      "address": "1600 Pennsylvania Avenue Northwest Washington DC 20500",
+      "phone": "(202) 456-1111",
+      "website": "https://www.whitehouse.gov/",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Kamala D. Harris",
+        "address": [
+          {
+            "line1": "1600 Pennsylvania Avenue Northwest",
+            "city": "Washington",
+            "state": "DC",
+            "zip": "20500"
+          }
+        ],
+        "party": "Democratic Party",
+        "phones": [
+          "(202) 456-1111"
+        ],
+        "urls": [
+          "https://www.whitehouse.gov/",
+          "https://en.wikipedia.org/wiki/Kamala_Harris"
+        ],
+        "channels": [
+          {
+            "type": "Twitter",
+            "id": "VP"
+          }
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "The White House 1600 Pennsylvania Avenue NW Washington, DC 20500",
+            "featureId": {
+              "cellId": "9923602325795527449",
+              "fprint": "11513381022022344111"
+            },
+            "featureType": "typeCompoundBuilding",
+            "positionPrecisionMeters": 126.14545494347092,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Kamala D. Harris",
+      "party": "Democratic Party",
+      "role": "Vice President of the United States",
+      "level": "Federal",
+      "address": "1600 Pennsylvania Avenue Northwest Washington DC 20500",
+      "phone": "(202) 456-1111",
+      "website": "https://www.whitehouse.gov/",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Debbie Stabenow",
+        "address": [
+          {
+            "line1": "United States Senate",
+            "line2": "731 Hart Senate Office Building",
+            "line3": "",
+            "city": "Washington",
+            "state": "DC",
+            "zip": "20510"
+          },
+          {
+            "line1": "221 West Lake Lansing Road",
+            "line2": "Suite 100",
+            "line3": "",
+            "city": "East Lansing",
+            "state": "MI",
+            "zip": "48823"
+          }
+        ],
+        "party": "Democratic Party",
+        "phones": [
+          "(202) 224-4822"
+        ],
+        "urls": [
+          "https://www.stabenow.senate.gov/",
+          "https://en.wikipedia.org/wiki/Debbie_Stabenow"
+        ],
+        "photoUrl": "http://bioguide.congress.gov/bioguide/photo/S/S000770.jpg",
+        "channels": [
+          {
+            "type": "Facebook",
+            "id": "SenatorStabenow"
+          },
+          {
+            "type": "Twitter",
+            "id": "SenStabenow"
+          }
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "731 Hart Senate Office Building, Washington DC 20510",
+            "featureId": {
+              "cellId": "9923602661160726555",
+              "fprint": "13491012159388313795"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Debbie Stabenow",
+      "party": "Democratic Party",
+      "role": "U.S. Senator",
+      "address": "United States Senate 731 Hart Senate Office Building  Washington DC 20510",
+      "phone": "(202) 224-4822",
+      "website": "https://www.stabenow.senate.gov/",
+      "financial_info": null,
+      "os_id": "N00004118",
+      "level": "Federal",
+      "contributors": [
+        [
+          "University of Michigan",
+          "16555",
+          "0",
+          "16555"
+        ],
+        [
+          "Western Michigan University",
+          "10137",
+          "0",
+          "10137"
+        ],
+        [
+          "Fortis Inc",
+          "10025",
+          "5000",
+          "5025"
+        ],
+        [
+          "Hamp Advisors",
+          "10000",
+          "0",
+          "10000"
+        ],
+        [
+          "Johnson Law",
+          "10000",
+          "0",
+          "10000"
+        ],
+        [
+          "Michigan State University",
+          "8460",
+          "0",
+          "8460"
+        ],
+        [
+          "AmerisourceBergen Corp",
+          "7500",
+          "7500",
+          "0"
+        ],
+        [
+          "General Motors",
+          "6694",
+          "0",
+          "6694"
+        ],
+        [
+          "Tyson Foods",
+          "6500",
+          "5000",
+          "1500"
+        ],
+        [
+          "US Sugar",
+          "6450",
+          "2500",
+          "3950"
+        ]
+      ],
+      "contributor_notice": "The organizations themselves did not donate, rather the money came from the organization's PAC, its individual members or employees or owners, and those individuals' immediate families",
+      "industries": [
+        [
+          "Retired",
+          "1223134",
+          "0",
+          "1223134"
+        ],
+        [
+          "Lawyers/Law Firms",
+          "839664",
+          "143150",
+          "982814"
+        ],
+        [
+          "Securities & Investment",
+          "661917",
+          "143500",
+          "805417"
+        ],
+        [
+          "Women's Issues",
+          "605785",
+          "31789",
+          "637574"
+        ],
+        [
+          "Health Professionals",
+          "340987",
+          "277000",
+          "617987"
+        ],
+        [
+          "Real Estate",
+          "467022",
+          "68000",
+          "535022"
+        ],
+        [
+          "Education",
+          "449934",
+          "1000",
+          "450934"
+        ],
+        [
+          "Leadership PACs",
+          "100",
+          "442150",
+          "442250"
+        ],
+        [
+          "Insurance",
+          "163336",
+          "250997",
+          "414333"
+        ],
+        [
+          "Lobbyists",
+          "347544",
+          "6550",
+          "354094"
+        ]
+      ]
+    },
+    {
+      "rep_dict": {
+        "name": "Gary Peters",
+        "address": [
+          {
+            "line1": "United States Senate",
+            "line2": "724 Hart Senate Office Building",
+            "line3": "",
+            "city": "Washington",
+            "state": "DC",
+            "zip": "20510"
+          },
+          {
+            "line1": "Patrick V. McNamara Federal Building",
+            "line2": "477 Michigan Avenue",
+            "line3": "Suite 1860",
+            "city": "Detroit",
+            "state": "MI",
+            "zip": "48226"
+          }
+        ],
+        "party": "Democratic Party",
+        "phones": [
+          "(202) 224-6221"
+        ],
+        "urls": [
+          "https://www.peters.senate.gov/",
+          "https://en.wikipedia.org/wiki/Gary_Peters"
+        ],
+        "photoUrl": "http://bioguide.congress.gov/bioguide/photo/P/P000595.jpg",
+        "channels": [
+          {
+            "type": "Facebook",
+            "id": "SenGaryPeters"
+          },
+          {
+            "type": "Twitter",
+            "id": "SenGaryPeters"
+          }
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "724 Hart Senate Office Building, Washington DC 20510",
+            "featureId": {
+              "cellId": "9923602661160726555",
+              "fprint": "13491012159388313795"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Gary Peters",
+      "party": "Democratic Party",
+      "role": "U.S. Senator",
+      "address": "United States Senate 724 Hart Senate Office Building  Washington DC 20510",
+      "phone": "(202) 224-6221",
+      "website": "https://www.peters.senate.gov/",
+      "financial_info": null,
+      "os_id": "N00029277",
+      "level": "Federal",
+      "contributors": [
+        [
+          "University of Michigan",
+          "543528",
+          "0",
+          "543528"
+        ],
+        [
+          "Alphabet Inc",
+          "238046",
+          "7000",
+          "231046"
+        ],
+        [
+          "University of California",
+          "180556",
+          "0",
+          "180556"
+        ],
+        [
+          "Michigan State University",
+          "161708",
+          "0",
+          "161708"
+        ],
+        [
+          "Goldman Sachs",
+          "124135",
+          "8500",
+          "115635"
+        ],
+        [
+          "Democracy Engine",
+          "111192",
+          "0",
+          "111192"
+        ],
+        [
+          "State of Michigan",
+          "110570",
+          "0",
+          "110570"
+        ],
+        [
+          "Microsoft Corp",
+          "110371",
+          "10000",
+          "100371"
+        ],
+        [
+          "Henry Ford Health System",
+          "102753",
+          "9000",
+          "93753"
+        ],
+        [
+          "General Motors",
+          "98065",
+          "5000",
+          "93065"
+        ]
+      ],
+      "contributor_notice": "The organizations themselves did not donate, rather the money came from the organization's PAC, its individual members or employees or owners, and those individuals' immediate families",
+      "industries": [
+        [
+          "Lawyers/Law Firms",
+          "1171700",
+          "97724",
+          "1269424"
+        ],
+        [
+          "Retired",
+          "818729",
+          "0",
+          "818729"
+        ],
+        [
+          "Securities & Investment",
+          "572197",
+          "177746",
+          "749943"
+        ],
+        [
+          "Real Estate",
+          "519963",
+          "64000",
+          "583963"
+        ],
+        [
+          "Leadership PACs",
+          "83700",
+          "486850",
+          "570550"
+        ],
+        [
+          "Health Professionals",
+          "437170",
+          "53500",
+          "490670"
+        ],
+        [
+          "Insurance",
+          "149810",
+          "340740",
+          "490550"
+        ],
+        [
+          "Environment",
+          "415720",
+          "30665",
+          "446385"
+        ],
+        [
+          "Education",
+          "408447",
+          "3500",
+          "411947"
+        ],
+        [
+          "Lobbyists",
+          "373372",
+          "9550",
+          "382922"
+        ]
+      ]
+    },
+    {
+      "rep_dict": {
+        "name": "Debbie Dingell",
+        "address": [
+          {
+            "line1": "United States House of Representatives",
+            "line2": "116 Cannon House Office Building",
+            "line3": "",
+            "city": "Washington",
+            "state": "DC",
+            "zip": "20515"
+          },
+          {
+            "line1": "19855 West Outer Drive",
+            "line2": "Suite 103-E",
+            "line3": "",
+            "city": "Dearborn",
+            "state": "MI",
+            "zip": "48124"
+          }
+        ],
+        "party": "Democratic Party",
+        "phones": [
+          "(202) 225-4071"
+        ],
+        "urls": [
+          "https://debbiedingell.house.gov/",
+          "https://en.wikipedia.org/wiki/Debbie_Dingell"
+        ],
+        "photoUrl": "https://www.congress.gov/img/member/114_rp_mi_12_dingell_debbie_200.jpg",
+        "channels": [
+          {
+            "type": "Facebook",
+            "id": "RepDebbieDingell"
+          },
+          {
+            "type": "Twitter",
+            "id": "RepDebDingell"
+          }
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "116 Cannon House Office Building, Washington, DC 20515",
+            "featureId": {
+              "cellId": "9923602802230033329",
+              "fprint": "14432053401917168168"
+            },
+            "featureType": "typeCompoundBuilding",
+            "positionPrecisionMeters": 144.53216523341916,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Debbie Dingell",
+      "party": "Democratic Party",
+      "role": "U.S. Representative",
+      "address": "United States House of Representatives 116 Cannon House Office Building  Washington DC 20515",
+      "phone": "(202) 225-4071",
+      "website": "https://debbiedingell.house.gov/",
+      "financial_info": null,
+      "os_id": "N00036149",
+      "level": "Federal",
+      "contributors": [
+        [
+          "University of Michigan",
+          "33423",
+          "0",
+          "33423"
+        ],
+        [
+          "Ford Motor Co",
+          "25975",
+          "10000",
+          "15975"
+        ],
+        [
+          "Service Employees International Union",
+          "20025",
+          "10000",
+          "10025"
+        ],
+        [
+          "National Assn of Broadcasters",
+          "14250",
+          "10000",
+          "4250"
+        ],
+        [
+          "Boeing Co",
+          "12600",
+          "10000",
+          "2600"
+        ],
+        [
+          "Blue Cross/Blue Shield",
+          "12245",
+          "10000",
+          "2245"
+        ],
+        [
+          "CMS Energy",
+          "11500",
+          "10000",
+          "1500"
+        ],
+        [
+          "BASF SE",
+          "10845",
+          "10000",
+          "845"
+        ],
+        [
+          "PG&E Corp",
+          "10700",
+          "2500",
+          "8200"
+        ],
+        [
+          "General Motors",
+          "10543",
+          "10000",
+          "543"
+        ]
+      ],
+      "contributor_notice": "The organizations themselves did not donate, rather the money came from the organization's PAC, its individual members or employees or owners, and those individuals' immediate families",
+      "industries": [
+        [
+          "Lawyers/Law Firms",
+          "27769",
+          "34550",
+          "62319"
+        ],
+        [
+          "Electric Utilities",
+          "1500",
+          "59000",
+          "60500"
+        ],
+        [
+          "Education",
+          "54456",
+          "1250",
+          "55706"
+        ],
+        [
+          "Automotive",
+          "12375",
+          "42000",
+          "54375"
+        ],
+        [
+          "Real Estate",
+          "31098",
+          "22500",
+          "53598"
+        ],
+        [
+          "Health Professionals",
+          "6924",
+          "46500",
+          "53424"
+        ],
+        [
+          "Telecom Services",
+          "3000",
+          "47000",
+          "50000"
+        ],
+        [
+          "Building Trade Unions",
+          "0",
+          "45000",
+          "45000"
+        ],
+        [
+          "Retired",
+          "44023",
+          "0",
+          "44023"
+        ],
+        [
+          "Industrial Unions",
+          "350",
+          "39000",
+          "39350"
+        ]
+      ]
+    }
+  ],
+  "state": [
+    {
+      "rep_dict": {
+        "name": "Gretchen Whitmer",
+        "party": "Democratic Party",
+        "phones": [
+          "(517) 373-3400"
+        ],
+        "urls": [
+          "https://www.michigan.gov/whitmer",
+          "https://en.wikipedia.org/wiki/Gretchen_Whitmer"
+        ],
+        "channels": [
+          {
+            "type": "Facebook",
+            "id": "GovGretchenWhitmer"
+          },
+          {
+            "type": "Twitter",
+            "id": "GovWhitmer"
+          }
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "P.O. Box 30013, Lansing, MI 48909",
+            "featureId": {
+              "cellId": "9809618135878006245",
+              "fprint": "4122586961793435434"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Gretchen Whitmer",
+      "party": "Democratic Party",
+      "role": "Governor of Michigan",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(517) 373-3400",
+      "website": "https://www.michigan.gov/whitmer",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Garlin Gilchrist II",
+        "party": "Democratic Party",
+        "phones": [
+          "(517) 373-3400"
+        ],
+        "urls": [
+          "https://en.wikipedia.org/wiki/Garlin_Gilchrist"
+        ],
+        "channels": [
+          {
+            "type": "Facebook",
+            "id": "garlingilchristMI"
+          },
+          {
+            "type": "Twitter",
+            "id": "LtGovGilchrist"
+          }
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "P.O. Box 30013, Lansing, MI 48909",
+            "featureId": {
+              "cellId": "9809618135878006245",
+              "fprint": "4122586961793435434"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Garlin Gilchrist II",
+      "party": "Democratic Party",
+      "role": "Lieutenant Governor of Michigan",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(517) 373-3400",
+      "website": "https://en.wikipedia.org/wiki/Garlin_Gilchrist",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Dana Nessel",
+        "party": "Democratic Party",
+        "phones": [
+          "(517) 335-7622"
+        ],
+        "urls": [
+          "https://www.michigan.gov/ag/",
+          "https://en.wikipedia.org/wiki/Dana_Nessel"
+        ],
+        "emails": [
+          "miag@michigan.gov"
+        ],
+        "channels": [
+          {
+            "type": "Facebook",
+            "id": "MIAttorneyGeneral"
+          },
+          {
+            "type": "Twitter",
+            "id": "dananessel"
+          }
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "P.O. Box 30212, Lansing, MI 48909",
+            "featureId": {
+              "cellId": "9809618135878006245",
+              "fprint": "4122586961793435434"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Dana Nessel",
+      "party": "Democratic Party",
+      "role": "MI State Attorney General",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(517) 335-7622",
+      "website": "https://www.michigan.gov/ag/",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Anil Kumar",
+        "party": "Democratic Party",
+        "phones": [
+          "(313) 577-2034"
+        ],
+        "urls": [
+          "https://bog.wayne.edu/members/kumar"
+        ],
+        "emails": [
+          "bi7088@wayne.edu"
+        ]
+      },
+      "name": "Anil Kumar",
+      "party": "Democratic Party",
+      "role": "Wayne State University Governor",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(313) 577-2034",
+      "website": "https://bog.wayne.edu/members/kumar",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Bryan C. Barnhill II",
+        "party": "Democratic Party",
+        "phones": [
+          "(313) 577-2034"
+        ],
+        "urls": [
+          "https://bog.wayne.edu/members/barnhill"
+        ],
+        "emails": [
+          "gx5460@wayne.edu"
+        ]
+      },
+      "name": "Bryan C. Barnhill II",
+      "party": "Democratic Party",
+      "role": "Wayne State University Governor",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(313) 577-2034",
+      "website": "https://bog.wayne.edu/members/barnhill",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Dana Thompson",
+        "party": "Democratic Party",
+        "phones": [
+          "(313) 577-2034"
+        ],
+        "urls": [
+          "https://bog.wayne.edu/members/thompson"
+        ],
+        "emails": [
+          "ba8940@wayne.edu"
+        ]
+      },
+      "name": "Dana Thompson",
+      "party": "Democratic Party",
+      "role": "Wayne State University Governor",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(313) 577-2034",
+      "website": "https://bog.wayne.edu/members/thompson",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Marilyn Kelly",
+        "party": "Democratic Party",
+        "phones": [
+          "(313) 577-2034"
+        ],
+        "urls": [
+          "https://bog.wayne.edu/members/kelly",
+          "https://en.wikipedia.org/wiki/Marilyn_Jean_Kelly"
+        ],
+        "emails": [
+          "dm1285@wayne.edu"
+        ]
+      },
+      "name": "Marilyn Kelly",
+      "party": "Democratic Party",
+      "role": "Wayne State University Governor",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(313) 577-2034",
+      "website": "https://bog.wayne.edu/members/kelly",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Mark Gaffney",
+        "party": "Democratic Party",
+        "phones": [
+          "(313) 577-2034"
+        ],
+        "urls": [
+          "https://bog.wayne.edu/members/gaffney"
+        ],
+        "emails": [
+          "fe7384@wayne.edu"
+        ]
+      },
+      "name": "Mark Gaffney",
+      "party": "Democratic Party",
+      "role": "Wayne State University Governor",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(313) 577-2034",
+      "website": "https://bog.wayne.edu/members/gaffney",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Michael Busuito",
+        "party": "Republican Party",
+        "phones": [
+          "(313) 577-2034"
+        ],
+        "urls": [
+          "https://bog.wayne.edu/members/busuito"
+        ],
+        "emails": [
+          "ac0475@wayne.edu"
+        ]
+      },
+      "name": "Michael Busuito",
+      "party": "Republican Party",
+      "role": "Wayne State University Governor",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(313) 577-2034",
+      "website": "https://bog.wayne.edu/members/busuito",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Shirley Stancato",
+        "party": "Democratic Party",
+        "phones": [
+          "(313) 577-2034"
+        ],
+        "urls": [
+          "https://bog.wayne.edu/members/shirley-stancato"
+        ],
+        "emails": [
+          "dp8192@wayne.edu"
+        ]
+      },
+      "name": "Shirley Stancato",
+      "party": "Democratic Party",
+      "role": "Wayne State University Governor",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(313) 577-2034",
+      "website": "https://bog.wayne.edu/members/shirley-stancato",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Terri Lynn Land",
+        "party": "Republican Party",
+        "phones": [
+          "(313) 577-2034"
+        ],
+        "urls": [
+          "https://bog.wayne.edu/members/land",
+          "https://en.wikipedia.org/wiki/Terri_Lynn_Land"
+        ],
+        "emails": [
+          "co8435@wayne.edu"
+        ]
+      },
+      "name": "Terri Lynn Land",
+      "party": "Republican Party",
+      "role": "Wayne State University Governor",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(313) 577-2034",
+      "website": "https://bog.wayne.edu/members/land",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Casandra E. Ulbrich",
+        "party": "Democratic Party",
+        "phones": [
+          "(833) 633-5788"
+        ],
+        "urls": [
+          "https://www.michigan.gov/mde/About-Us/State-Board"
+        ],
+        "emails": [
+          "ulbrichc@michigan.gov"
+        ],
+        "channels": [
+          {
+            "type": "Facebook",
+            "id": "casandraulbrichSBE"
+          },
+          {
+            "type": "Twitter",
+            "id": "casandraulbrich"
+          }
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "P.O. Box 30008, Lansing, MI 48909",
+            "featureId": {
+              "cellId": "9809618135878006245",
+              "fprint": "4122586961793435434"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Casandra E. Ulbrich",
+      "party": "Democratic Party",
+      "role": "MI State Board of Education Member",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(833) 633-5788",
+      "website": "https://www.michigan.gov/mde/About-Us/State-Board",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Ellen Cogen Lipton",
+        "party": "Democratic Party",
+        "phones": [
+          "(833) 633-5788"
+        ],
+        "urls": [
+          "https://www.michigan.gov/mde/About-Us/State-Board"
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "P.O. Box 30008, Lansing, MI 48909",
+            "featureId": {
+              "cellId": "9809618135878006245",
+              "fprint": "4122586961793435434"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Ellen Cogen Lipton",
+      "party": "Democratic Party",
+      "role": "MI State Board of Education Member",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(833) 633-5788",
+      "website": "https://www.michigan.gov/mde/About-Us/State-Board",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Judith Pritchett",
+        "party": "Democratic Party",
+        "phones": [
+          "(833) 633-5788"
+        ],
+        "urls": [
+          "https://www.michigan.gov/mde/About-Us/State-Board"
+        ],
+        "emails": [
+          "pritchettj1@michigan.gov"
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "P.O. Box 30008, Lansing, MI 48909",
+            "featureId": {
+              "cellId": "9809618135878006245",
+              "fprint": "4122586961793435434"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Judith Pritchett",
+      "party": "Democratic Party",
+      "role": "MI State Board of Education Member",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(833) 633-5788",
+      "website": "https://www.michigan.gov/mde/About-Us/State-Board",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Nikki Snyder",
+        "party": "Republican Party",
+        "phones": [
+          "(833) 633-5788"
+        ],
+        "urls": [
+          "https://www.michigan.gov/mde/About-Us/State-Board"
+        ],
+        "emails": [
+          "snydern@michigan.gov"
+        ],
+        "channels": [
+          {
+            "type": "Twitter",
+            "id": "nikkisnydersbe"
+          }
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "P.O. Box 30008, Lansing, MI 48909",
+            "featureId": {
+              "cellId": "9809618135878006245",
+              "fprint": "4122586961793435434"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Nikki Snyder",
+      "party": "Republican Party",
+      "role": "MI State Board of Education Member",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(833) 633-5788",
+      "website": "https://www.michigan.gov/mde/About-Us/State-Board",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Pamela Pugh",
+        "party": "Democratic Party",
+        "phones": [
+          "(833) 633-5788"
+        ],
+        "urls": [
+          "https://www.michigan.gov/mde/About-Us/State-Board"
+        ],
+        "emails": [
+          "pughp@michigan.gov"
+        ],
+        "channels": [
+          {
+            "type": "Facebook",
+            "id": "pampughsbe"
+          },
+          {
+            "type": "Twitter",
+            "id": "pamlpugh"
+          }
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "P.O. Box 30008, Lansing, MI 48909",
+            "featureId": {
+              "cellId": "9809618135878006245",
+              "fprint": "4122586961793435434"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Pamela Pugh",
+      "party": "Democratic Party",
+      "role": "MI State Board of Education Member",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(833) 633-5788",
+      "website": "https://www.michigan.gov/mde/About-Us/State-Board",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Tiffany D. Tilley",
+        "party": "Democratic Party",
+        "phones": [
+          "(833) 633-5788"
+        ],
+        "urls": [
+          "https://www.michigan.gov/mde/About-Us/State-Board"
+        ],
+        "emails": [
+          "tilleyt@michigan.gov"
+        ],
+        "channels": [
+          {
+            "type": "Facebook",
+            "id": "tiffanytilleyforstateboard"
+          }
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "P.O. Box 30008, Lansing, MI 48909",
+            "featureId": {
+              "cellId": "9809618135878006245",
+              "fprint": "4122586961793435434"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Tiffany D. Tilley",
+      "party": "Democratic Party",
+      "role": "MI State Board of Education Member",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(833) 633-5788",
+      "website": "https://www.michigan.gov/mde/About-Us/State-Board",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Tom McMillin",
+        "party": "Republican Party",
+        "phones": [
+          "(833) 633-5788"
+        ],
+        "urls": [
+          "https://www.michigan.gov/mde/About-Us/State-Board",
+          "https://en.wikipedia.org/wiki/Tom_McMillin"
+        ],
+        "emails": [
+          "mcmillint1@michigan.gov"
+        ],
+        "channels": [
+          {
+            "type": "Facebook",
+            "id": "Tom4StateBoardofEducation"
+          }
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "P.O. Box 30008, Lansing, MI 48909",
+            "featureId": {
+              "cellId": "9809618135878006245",
+              "fprint": "4122586961793435434"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Tom McMillin",
+      "party": "Republican Party",
+      "role": "MI State Board of Education Member",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(833) 633-5788",
+      "website": "https://www.michigan.gov/mde/About-Us/State-Board",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "VACANT",
+        "party": "Unaffiliated",
+        "phones": [
+          "(833) 633-5788"
+        ],
+        "urls": [
+          "https://www.michigan.gov/mde/About-Us/State-Board"
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "P.O. Box 30008, Lansing, MI 48909",
+            "featureId": {
+              "cellId": "9809618135878006245",
+              "fprint": "4122586961793435434"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "VACANT",
+      "party": "Unaffiliated",
+      "role": "MI State Board of Education Member",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(833) 633-5788",
+      "website": "https://www.michigan.gov/mde/About-Us/State-Board",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Brianna T. Scott",
+        "party": "Democratic Party",
+        "phones": [
+          "(517) 353-4647"
+        ],
+        "urls": [
+          "https://trustees.msu.edu/about/biographies/scott-brianna.html"
+        ],
+        "emails": [
+          "scottbri@msu.edu"
+        ]
+      },
+      "name": "Brianna T. Scott",
+      "party": "Democratic Party",
+      "role": "Michigan State University Trustee",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(517) 353-4647",
+      "website": "https://trustees.msu.edu/about/biographies/scott-brianna.html",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Dan Kelly",
+        "party": "Republican Party",
+        "phones": [
+          "(517) 353-4647"
+        ],
+        "urls": [
+          "https://trustees.msu.edu/about/biographies/kelly-dan.html"
+        ],
+        "emails": [
+          "dkelly@msu.edu"
+        ]
+      },
+      "name": "Dan Kelly",
+      "party": "Republican Party",
+      "role": "Michigan State University Trustee",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(517) 353-4647",
+      "website": "https://trustees.msu.edu/about/biographies/kelly-dan.html",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Dianne Byrum",
+        "party": "Democratic Party",
+        "phones": [
+          "(517) 353-4647"
+        ],
+        "urls": [
+          "https://trustees.msu.edu/about/biographies/byrum-dianne.html",
+          "https://en.wikipedia.org/wiki/Dianne_Byrum"
+        ],
+        "emails": [
+          "byrum@msu.edu"
+        ],
+        "channels": [
+          {
+            "type": "Facebook",
+            "id": "DianneByrumMSU"
+          },
+          {
+            "type": "Twitter",
+            "id": "diannebyrum"
+          }
+        ]
+      },
+      "name": "Dianne Byrum",
+      "party": "Democratic Party",
+      "role": "Michigan State University Trustee",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(517) 353-4647",
+      "website": "https://trustees.msu.edu/about/biographies/byrum-dianne.html",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Kelly Tebay",
+        "party": "Democratic Party",
+        "phones": [
+          "(517) 353-4647"
+        ],
+        "urls": [
+          "https://trustees.msu.edu/about/biographies/tebay-kelly.html"
+        ],
+        "emails": [
+          "tebaykel@msu.edu"
+        ],
+        "channels": [
+          {
+            "type": "Twitter",
+            "id": "kellyformsu"
+          }
+        ]
+      },
+      "name": "Kelly Tebay",
+      "party": "Democratic Party",
+      "role": "Michigan State University Trustee",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(517) 353-4647",
+      "website": "https://trustees.msu.edu/about/biographies/tebay-kelly.html",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Melanie Foster",
+        "party": "Republican Party",
+        "phones": [
+          "(517) 353-4647"
+        ],
+        "urls": [
+          "https://trustees.msu.edu/about/biographies/foster-melanie.html"
+        ],
+        "emails": [
+          "mfoster@msu.edu"
+        ],
+        "channels": [
+          {
+            "type": "Facebook",
+            "id": "MelanieFosterMSU"
+          }
+        ]
+      },
+      "name": "Melanie Foster",
+      "party": "Republican Party",
+      "role": "Michigan State University Trustee",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(517) 353-4647",
+      "website": "https://trustees.msu.edu/about/biographies/foster-melanie.html",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Pat O'Keefe",
+        "party": "Republican Party",
+        "phones": [
+          "(517) 353-4647"
+        ],
+        "urls": [
+          "https://trustees.msu.edu/about/biographies/okeefe-pat.html"
+        ],
+        "emails": [
+          "pokeefe@msu.edu"
+        ]
+      },
+      "name": "Pat O'Keefe",
+      "party": "Republican Party",
+      "role": "Michigan State University Trustee",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(517) 353-4647",
+      "website": "https://trustees.msu.edu/about/biographies/okeefe-pat.html",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Rema Vassar",
+        "party": "Democratic Party",
+        "phones": [
+          "(517) 353-4647"
+        ],
+        "urls": [
+          "https://trustees.msu.edu/about/biographies/vassar-rema.html"
+        ],
+        "emails": [
+          "drrema@msu.edu"
+        ],
+        "channels": [
+          {
+            "type": "Facebook",
+            "id": "DrRema4MSU"
+          },
+          {
+            "type": "Twitter",
+            "id": "drrema4msu"
+          }
+        ]
+      },
+      "name": "Rema Vassar",
+      "party": "Democratic Party",
+      "role": "Michigan State University Trustee",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(517) 353-4647",
+      "website": "https://trustees.msu.edu/about/biographies/vassar-rema.html",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Renee Knake Jefferson",
+        "party": "Unknown",
+        "phones": [
+          "(517) 353-4647"
+        ],
+        "urls": [
+          "https://trustees.msu.edu/about/biographies/jefferson-renee-knake.html"
+        ],
+        "emails": [
+          "knakeree@msu.edu"
+        ],
+        "channels": [
+          {
+            "type": "Twitter",
+            "id": "reneeknake"
+          }
+        ]
+      },
+      "name": "Renee Knake Jefferson",
+      "party": "Unknown",
+      "role": "Michigan State University Trustee",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(517) 353-4647",
+      "website": "https://trustees.msu.edu/about/biographies/jefferson-renee-knake.html",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Jocelyn Benson",
+        "party": "Democratic Party",
+        "phones": [
+          "(888) 767-6424"
+        ],
+        "urls": [
+          "https://www.michigan.gov/sos/",
+          "https://en.wikipedia.org/wiki/Jocelyn_Benson"
+        ],
+        "channels": [
+          {
+            "type": "Facebook",
+            "id": "MichiganSoS"
+          },
+          {
+            "type": "Twitter",
+            "id": "MichSoS"
+          }
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "P.O. Box 30204, Lansing, MI 48909",
+            "featureId": {
+              "cellId": "9809618135878006245",
+              "fprint": "4122586961793435434"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Jocelyn Benson",
+      "party": "Democratic Party",
+      "role": "MI Secretary of State",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(888) 767-6424",
+      "website": "https://www.michigan.gov/sos/",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Denise Ilitch",
+        "party": "Democratic Party",
+        "urls": [
+          "https://regents.umich.edu/regents/denise-ilitch/",
+          "https://en.wikipedia.org/wiki/Denise_Ilitch"
+        ],
+        "emails": [
+          "dilitch@umich.edu"
+        ],
+        "channels": [
+          {
+            "type": "Facebook",
+            "id": "VoteIlitch"
+          }
+        ]
+      },
+      "name": "Denise Ilitch",
+      "party": "Democratic Party",
+      "role": "University of Michigan Regent",
+      "level": "State",
+      "address": "No address available",
+      "phone": null,
+      "website": "https://regents.umich.edu/regents/denise-ilitch/",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Jordan B. Acker",
+        "party": "Democratic Party",
+        "phones": [
+          "(248) 483-5000"
+        ],
+        "urls": [
+          "https://regents.umich.edu/regents/jordan-b-acker/"
+        ],
+        "emails": [
+          "jacker@umich.edu"
+        ],
+        "channels": [
+          {
+            "type": "Twitter",
+            "id": "jordanackermi"
+          }
+        ]
+      },
+      "name": "Jordan B. Acker",
+      "party": "Democratic Party",
+      "role": "University of Michigan Regent",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(248) 483-5000",
+      "website": "https://regents.umich.edu/regents/jordan-b-acker/",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Katherine E. White",
+        "party": "Democratic Party",
+        "phones": [
+          "(313) 577-1054"
+        ],
+        "urls": [
+          "https://regents.umich.edu/regents/katherine-e-white/"
+        ],
+        "emails": [
+          "kewhite@umich.edu"
+        ]
+      },
+      "name": "Katherine E. White",
+      "party": "Democratic Party",
+      "role": "University of Michigan Regent",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(313) 577-1054",
+      "website": "https://regents.umich.edu/regents/katherine-e-white/",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Mark J. Bernstein",
+        "party": "Democratic Party",
+        "phones": [
+          "(248) 865-0877"
+        ],
+        "urls": [
+          "https://regents.umich.edu/regents/mark-j-bernstein/",
+          "https://en.wikipedia.org/wiki/Mark_Bernstein"
+        ],
+        "emails": [
+          "mjbern@umich.edu"
+        ]
+      },
+      "name": "Mark J. Bernstein",
+      "party": "Democratic Party",
+      "role": "University of Michigan Regent",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(248) 865-0877",
+      "website": "https://regents.umich.edu/regents/mark-j-bernstein/",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Michael J. Behm",
+        "party": "Democratic Party",
+        "phones": [
+          "(810) 234-2400"
+        ],
+        "urls": [
+          "https://regents.umich.edu/regents/michael-j-behm/"
+        ],
+        "emails": [
+          "mjbehm@umich.edu"
+        ],
+        "channels": [
+          {
+            "type": "Facebook",
+            "id": "mikejbehm"
+          },
+          {
+            "type": "Twitter",
+            "id": "mikejbehm"
+          }
+        ]
+      },
+      "name": "Michael J. Behm",
+      "party": "Democratic Party",
+      "role": "University of Michigan Regent",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(810) 234-2400",
+      "website": "https://regents.umich.edu/regents/michael-j-behm/",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Paul W. Brown",
+        "party": "Democratic Party",
+        "phones": [
+          "(734) 730-1077"
+        ],
+        "urls": [
+          "https://regents.umich.edu/regents/paul-w-brown/"
+        ],
+        "emails": [
+          "pwb@umich.edu"
+        ]
+      },
+      "name": "Paul W. Brown",
+      "party": "Democratic Party",
+      "role": "University of Michigan Regent",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(734) 730-1077",
+      "website": "https://regents.umich.edu/regents/paul-w-brown/",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Ron Weiser",
+        "party": "Republican Party",
+        "phones": [
+          "(734) 769-8520"
+        ],
+        "urls": [
+          "https://regents.umich.edu/regents/ron-weiser/",
+          "https://en.wikipedia.org/wiki/Ronald_Weiser"
+        ],
+        "emails": [
+          "rnweiser@umich.edu"
+        ]
+      },
+      "name": "Ron Weiser",
+      "party": "Republican Party",
+      "role": "University of Michigan Regent",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(734) 769-8520",
+      "website": "https://regents.umich.edu/regents/ron-weiser/",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Sarah Hubbard",
+        "party": "Republican Party",
+        "phones": [
+          "(517) 853-1236"
+        ],
+        "urls": [
+          "https://regents.umich.edu/regents/sarah-hubbard/"
+        ],
+        "emails": [
+          "regenthubbard@umich.edu"
+        ],
+        "channels": [
+          {
+            "type": "Facebook",
+            "id": "Hubbard4Michigan"
+          },
+          {
+            "type": "Twitter",
+            "id": "regenthubbard"
+          }
+        ]
+      },
+      "name": "Sarah Hubbard",
+      "party": "Republican Party",
+      "role": "University of Michigan Regent",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(517) 853-1236",
+      "website": "https://regents.umich.edu/regents/sarah-hubbard/",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Jeff Irwin",
+        "party": "Democratic Party",
+        "phones": [
+          "(517) 373-2406"
+        ],
+        "urls": [
+          "https://senatedems.com/irwin/",
+          "https://en.wikipedia.org/wiki/Jeff_Irwin_%28politician%29"
+        ],
+        "emails": [
+          "senjirwin@senate.michigan.gov"
+        ],
+        "channels": [
+          {
+            "type": "Facebook",
+            "id": "SenatorIrwin"
+          },
+          {
+            "type": "Twitter",
+            "id": "JeffMIrwin"
+          }
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "P.O. Box 30036, Lansing, MI 48909",
+            "featureId": {
+              "cellId": "9809618135878006245",
+              "fprint": "4122586961793435434"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Jeff Irwin",
+      "party": "Democratic Party",
+      "role": "MI State Senator",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(517) 373-2406",
+      "website": "https://senatedems.com/irwin/",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Yousef Rabhi",
+        "address": [
+          {
+            "line1": "S-987 House Office Building",
+            "line2": "124 North Capitol Avenue",
+            "line3": "P.O. Box 30014",
+            "city": "Lansing",
+            "state": "MI",
+            "zip": "48909-7514"
+          }
+        ],
+        "party": "Democratic Party",
+        "phones": [
+          "(517) 373-2577"
+        ],
+        "urls": [
+          "https://housedems.com/rabhi",
+          "https://en.wikipedia.org/wiki/Yousef_Rabhi"
+        ],
+        "photoUrl": "http://housedems.com/sites/default/files/representative-headshots/2016-headshots/53_Rabhi.jpg",
+        "emails": [
+          "yousefrabhi@house.mi.gov"
+        ],
+        "channels": [
+          {
+            "type": "Facebook",
+            "id": "RepRabhi"
+          },
+          {
+            "type": "Twitter",
+            "id": "RepRabhi"
+          }
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "P.O. Box 30014, Lansing, MI 48909",
+            "featureId": {
+              "cellId": "9809618135878006245",
+              "fprint": "4122586961793435434"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Yousef Rabhi",
+      "party": "Democratic Party",
+      "role": "MI State Representative",
+      "level": "State",
+      "address": "S-987 House Office Building 124 North Capitol Avenue P.O. Box 30014 Lansing MI 48909-7514",
+      "phone": "(517) 373-2577",
+      "website": "https://housedems.com/rabhi",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Brian K. Zahra",
+        "party": "Nonpartisan",
+        "phones": [
+          "(517) 373-0120"
+        ],
+        "urls": [
+          "https://courts.michigan.gov/Courts/MichiganSupremeCourt/Pages/default.aspx",
+          "https://en.wikipedia.org/wiki/Brian_K._Zahra"
+        ],
+        "channels": [
+          {
+            "type": "Facebook",
+            "id": "JusticeBrianZahra"
+          },
+          {
+            "type": "Twitter",
+            "id": "zahra4justice"
+          }
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "P.O. Box 30052, Lansing, MI 48909",
+            "featureId": {
+              "cellId": "9809618135878006245",
+              "fprint": "4122586961793435434"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Brian K. Zahra",
+      "party": "Nonpartisan",
+      "role": "MI State Supreme Court Justice",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(517) 373-0120",
+      "website": "https://courts.michigan.gov/Courts/MichiganSupremeCourt/Pages/default.aspx",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Bridget Mary McCormack",
+        "party": "Nonpartisan",
+        "phones": [
+          "(517) 373-0120"
+        ],
+        "urls": [
+          "https://courts.michigan.gov/Courts/MichiganSupremeCourt/Pages/default.aspx",
+          "https://en.wikipedia.org/wiki/Bridget_Mary_McCormack"
+        ],
+        "channels": [
+          {
+            "type": "Facebook",
+            "id": "ChiefJusticeBridgetMaryMcCormack"
+          },
+          {
+            "type": "Twitter",
+            "id": "BridgetMaryMc"
+          }
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "P.O. Box 30052, Lansing, MI 48909",
+            "featureId": {
+              "cellId": "9809618135878006245",
+              "fprint": "4122586961793435434"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Bridget Mary McCormack",
+      "party": "Nonpartisan",
+      "role": "MI State Supreme Court Justice",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(517) 373-0120",
+      "website": "https://courts.michigan.gov/Courts/MichiganSupremeCourt/Pages/default.aspx",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "David F. Viviano",
+        "party": "Nonpartisan",
+        "phones": [
+          "(517) 373-0120"
+        ],
+        "urls": [
+          "https://courts.michigan.gov/Courts/MichiganSupremeCourt/Pages/default.aspx",
+          "https://en.wikipedia.org/wiki/David_Viviano"
+        ],
+        "channels": [
+          {
+            "type": "Facebook",
+            "id": "JusticeDavidViviano"
+          }
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "P.O. Box 30052, Lansing, MI 48909",
+            "featureId": {
+              "cellId": "9809618135878006245",
+              "fprint": "4122586961793435434"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "David F. Viviano",
+      "party": "Nonpartisan",
+      "role": "MI State Supreme Court Justice",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(517) 373-0120",
+      "website": "https://courts.michigan.gov/Courts/MichiganSupremeCourt/Pages/default.aspx",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Elizabeth M. Welch",
+        "party": "Nonpartisan",
+        "phones": [
+          "(517) 373-0120"
+        ],
+        "urls": [
+          "https://courts.michigan.gov/Courts/MichiganSupremeCourt/Pages/default.aspx",
+          "https://en.wikipedia.org/wiki/Elizabeth_M._Welch"
+        ],
+        "channels": [
+          {
+            "type": "Twitter",
+            "id": "emerrillwelch"
+          }
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "P.O. Box 30052, Lansing, MI 48909",
+            "featureId": {
+              "cellId": "9809618135878006245",
+              "fprint": "4122586961793435434"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Elizabeth M. Welch",
+      "party": "Nonpartisan",
+      "role": "MI State Supreme Court Justice",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(517) 373-0120",
+      "website": "https://courts.michigan.gov/Courts/MichiganSupremeCourt/Pages/default.aspx",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Elizabeth T. Clement",
+        "party": "Nonpartisan",
+        "phones": [
+          "(517) 373-0120"
+        ],
+        "urls": [
+          "https://courts.michigan.gov/Courts/MichiganSupremeCourt/Pages/default.aspx",
+          "https://en.wikipedia.org/wiki/Elizabeth_T._Clement"
+        ],
+        "channels": [
+          {
+            "type": "Twitter",
+            "id": "_justiceclement"
+          }
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "P.O. Box 30052, Lansing, MI 48909",
+            "featureId": {
+              "cellId": "9809618135878006245",
+              "fprint": "4122586961793435434"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Elizabeth T. Clement",
+      "party": "Nonpartisan",
+      "role": "MI State Supreme Court Justice",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(517) 373-0120",
+      "website": "https://courts.michigan.gov/Courts/MichiganSupremeCourt/Pages/default.aspx",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Megan K. Cavanagh",
+        "party": "Nonpartisan",
+        "phones": [
+          "(517) 373-0120"
+        ],
+        "urls": [
+          "https://courts.michigan.gov/Courts/MichiganSupremeCourt/Pages/default.aspx",
+          "https://en.wikipedia.org/wiki/Megan_Cavanagh_%28judge%29"
+        ],
+        "channels": [
+          {
+            "type": "Twitter",
+            "id": "megankcavanagh"
+          }
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "P.O. Box 30052, Lansing, MI 48909",
+            "featureId": {
+              "cellId": "9809618135878006245",
+              "fprint": "4122586961793435434"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Megan K. Cavanagh",
+      "party": "Nonpartisan",
+      "role": "MI State Supreme Court Justice",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(517) 373-0120",
+      "website": "https://courts.michigan.gov/Courts/MichiganSupremeCourt/Pages/default.aspx",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Richard Bernstein",
+        "party": "Nonpartisan",
+        "phones": [
+          "(517) 373-0120"
+        ],
+        "urls": [
+          "https://courts.michigan.gov/Courts/MichiganSupremeCourt/Pages/default.aspx",
+          "https://en.wikipedia.org/wiki/Richard_H._Bernstein"
+        ],
+        "channels": [
+          {
+            "type": "Facebook",
+            "id": "justicebernstein"
+          },
+          {
+            "type": "Twitter",
+            "id": "theblindjustice"
+          }
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "P.O. Box 30052, Lansing, MI 48909",
+            "featureId": {
+              "cellId": "9809618135878006245",
+              "fprint": "4122586961793435434"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Richard Bernstein",
+      "party": "Nonpartisan",
+      "role": "MI State Supreme Court Justice",
+      "level": "State",
+      "address": "No address available",
+      "phone": "(517) 373-0120",
+      "website": "https://courts.michigan.gov/Courts/MichiganSupremeCourt/Pages/default.aspx",
+      "financial_info": null,
+      "os_id": null
+    }
+  ],
+  "local": [
+    {
+      "rep_dict": {
+        "name": "Catherine McClary",
+        "party": "Democratic Party",
+        "phones": [
+          "(734) 222-6600"
+        ],
+        "urls": [
+          "https://www.washtenaw.org/1136/Treasurer"
+        ],
+        "emails": [
+          "taxes@ewashtenaw.org"
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "PO Box 8645, Ann Arbor, MI 48107",
+            "featureId": {
+              "cellId": "9816912696896126715",
+              "fprint": "2082801816659177929"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Catherine McClary",
+      "party": "Democratic Party",
+      "role": "Washtenaw County Treasurer",
+      "level": "Local",
+      "address": "No address available",
+      "phone": "(734) 222-6600",
+      "website": "https://www.washtenaw.org/1136/Treasurer",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Lawrence Kestenbaum",
+        "party": "Democratic Party",
+        "phones": [
+          "(734) 222-6700"
+        ],
+        "urls": [
+          "https://www.washtenaw.org/262/Clerk-Register-of-Deeds"
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "PO Box 8645, Ann Arbor, MI 48107",
+            "featureId": {
+              "cellId": "9816912696896126715",
+              "fprint": "2082801816659177929"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Lawrence Kestenbaum",
+      "party": "Democratic Party",
+      "role": "Washtenaw County Clerk/Register of Deeds",
+      "level": "Local",
+      "address": "No address available",
+      "phone": "(734) 222-6700",
+      "website": "https://www.washtenaw.org/262/Clerk-Register-of-Deeds",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Jerry L. Clayton",
+        "address": [
+          {
+            "line1": "2201 Hogback Road",
+            "city": "Ann Arbor",
+            "state": "MI",
+            "zip": "48105"
+          }
+        ],
+        "party": "Democratic Party",
+        "phones": [
+          "(734) 222-6850"
+        ],
+        "urls": [
+          "https://www.washtenaw.org/1124/Sheriff"
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "2201 Hogback Road, Ann Arbor, MI 48105",
+            "featureId": {
+              "cellId": "9816913888785657987",
+              "fprint": "3319632397011580835"
+            },
+            "featureType": "typeGeocodedAddress",
+            "positionPrecisionMeters": 0,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Jerry L. Clayton",
+      "party": "Democratic Party",
+      "role": "Washtenaw County Sheriff",
+      "level": "Local",
+      "address": "2201 Hogback Road Ann Arbor MI 48105",
+      "phone": "(734) 222-6850",
+      "website": "https://www.washtenaw.org/1124/Sheriff",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Eli Savit",
+        "party": "Democratic Party",
+        "phones": [
+          "(734) 222-6620"
+        ],
+        "urls": [
+          "https://www.washtenaw.org/1070/Prosecuting-Attorney"
+        ],
+        "emails": [
+          "prosecutor@washtenaw.org"
+        ],
+        "channels": [
+          {
+            "type": "Facebook",
+            "id": "EliSavit2020"
+          },
+          {
+            "type": "Twitter",
+            "id": "EliNSavit"
+          }
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "PO Box 8645, Ann Arbor, MI 48107",
+            "featureId": {
+              "cellId": "9816912696896126715",
+              "fprint": "2082801816659177929"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Eli Savit",
+      "party": "Democratic Party",
+      "role": "Washtenaw County Prosecuting Attorney",
+      "level": "Local",
+      "address": "No address available",
+      "phone": "(734) 222-6620",
+      "website": "https://www.washtenaw.org/1070/Prosecuting-Attorney",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Katie Scott",
+        "party": "Democratic Party",
+        "phones": [
+          "(734) 222-6850"
+        ],
+        "urls": [
+          "https://www.washtenaw.org/202/Board-of-Commissioners"
+        ],
+        "emails": [
+          "scottk@ewashtenaw.org"
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "PO Box 8645, Ann Arbor, MI 48107",
+            "featureId": {
+              "cellId": "9816912696896126715",
+              "fprint": "2082801816659177929"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Katie Scott",
+      "party": "Democratic Party",
+      "role": "Washtenaw County Commissioner",
+      "level": "Local",
+      "address": "No address available",
+      "phone": "(734) 222-6850",
+      "website": "https://www.washtenaw.org/202/Board-of-Commissioners",
+      "financial_info": null,
+      "os_id": null
+    },
+    {
+      "rep_dict": {
+        "name": "Evan N. Pratt",
+        "party": "Democratic Party",
+        "phones": [
+          "(734) 222-6860"
+        ],
+        "urls": [
+          "https://www.washtenaw.org/154/Water-Resources"
+        ],
+        "emails": [
+          "drains@washtenaw.org"
+        ],
+        "channels": [
+          {
+            "type": "Facebook",
+            "id": "WCWRC"
+          }
+        ],
+        "geocodingSummaries": [
+          {
+            "queryString": "PO Box 8645, Ann Arbor, MI 48107",
+            "featureId": {
+              "cellId": "9816912696896126715",
+              "fprint": "2082801816659177929"
+            },
+            "featureType": "typePostalCode",
+            "positionPrecisionMeters": 500,
+            "addressUnderstood": true
+          }
+        ]
+      },
+      "name": "Evan N. Pratt",
+      "party": "Democratic Party",
+      "role": "Washtenaw County Water Resources Commissioner",
+      "level": "Local",
+      "address": "No address available",
+      "phone": "(734) 222-6860",
+      "website": "https://www.washtenaw.org/154/Water-Resources",
+      "financial_info": null,
+      "os_id": null
+    }
+  ]
+}
